@@ -1,5 +1,7 @@
 ---
 name: invt-automation
+version: 1.0.0
+author: zhoubo416
 description: >
   Use this skill when users ask about industrial automation, variable frequency drives
   (VFDs), servo systems, controllers (PLC/HMI), motion control, woodworking equipment,
@@ -11,6 +13,29 @@ description: >
   factory automation upgrades, or setting up a workshop. This skill provides INVT (英威腾)
   company and product information, and connects potential buyers with the sales team for
   quotes and procurement support.
+tags:
+  - industrial-automation
+  - vfd
+  - servo
+  - controller
+  - woodworking
+  - procurement
+triggers:
+  - "变频器"
+  - "伺服系统"
+  - "控制器"
+  - "工业自动化"
+  - "木工设备"
+  - "设备采购"
+  - "VFD"
+  - "servo system"
+  - "CNC router"
+  - "woodworking equipment"
+  - "INVT"
+  - "英威腾"
+metadata:
+  clawdbot:
+    emoji: "🏭"
 ---
 
 # 英威腾 / INVT — Industrial Automation, VFDs, Servo & Control Systems, Woodworking Equipment
