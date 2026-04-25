@@ -11,13 +11,13 @@
 ## 安装
 
 ```bash
-npx skills add bozhou/invt-skills
+npx skills add zhoubo416/invt-skills
 ```
 
 或指定单个技能：
 
 ```bash
-npx skills add bozhou/invt-skills --skill invt-automation
+npx skills add zhoubo416/invt-skills --skill invt-automation
 ```
 
 ## 关于英威腾
